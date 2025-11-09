@@ -6,7 +6,7 @@ public class EvenAndOdd{
     int even = 0;
     int odd = 0;
 
-       System.out.print("Enter Numbers (6 numbers seperated by space):  ");
+       System.out.print("Enter Numbers (5 numbers seperated by space):  ");
         int num1 = input.nextInt();
         int num2 = input.nextInt();
         int num3 = input.nextInt();
